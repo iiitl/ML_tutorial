@@ -28,7 +28,7 @@ Commit your changes (git commit -am 'Added new feature')
 Push to the branch (git push origin feature/new-feature)
 Create a new pull request
 ```
-Unsupervised problems-
+# Unsupervised problems
 The unsupervised learning algorithm learns the structure of data X and then generates fakes and insights.
 Involves algorithms like-
 1-variational autoencoders (VAE) 
