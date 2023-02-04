@@ -28,6 +28,17 @@ Commit your changes (git commit -am 'Added new feature')
 Push to the branch (git push origin feature/new-feature)
 Create a new pull request
 ```
+# Classification
+When there is need to classify data in different classes , these algorithms can be used.
+
+# Alogorithm used
+1-Logistic Regression
+2-SVR (Support Vector Machines)
+3-KNN (K Nearest Neighbour)
+4-Naive Bayes
+5-Decision tree classification
+6-Random Forest classification
+
 
 # Conclusion
 We hope that this repository will help you on your journey to becoming a machine learning expert. Happy learning!
