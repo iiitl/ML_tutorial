@@ -30,9 +30,12 @@ Create a new pull request
 ```
 # Unsupervised problems
 The unsupervised learning algorithm learns the structure of data X and then generates fakes and insights.
+```
 Involves algorithms like-
 1-variational autoencoders (VAE) 
 2-generative adverserial network (GAN)
+```
+
 
 # Conclusion
 We hope that this repository will help you on your journey to becoming a machine learning expert. Happy learning!
